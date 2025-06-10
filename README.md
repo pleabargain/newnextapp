@@ -22,6 +22,18 @@ To access the API Key Management Dashboard, visit [http://localhost:3000/dashboa
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Development Branches
+
+### Current Branch: implement-CRUD
+- Implementing full CRUD operations for API key management
+- Features:
+  - Create new API keys
+  - Read/List existing API keys
+  - Update API key details
+  - Delete API keys
+  - Secure key storage
+  - Usage tracking
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
@@ -43,5 +55,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - Implemented reusable Button component with TailwindCSS
 - Added system timestamp updates to README.md
 - Successfully tested node installation and development server
+- Created new branch 'implement-CRUD' for API key management features
 
 Last updated: 2025-06-10-18-11
