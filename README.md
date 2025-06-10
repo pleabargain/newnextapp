@@ -1,3 +1,9 @@
+# url
+https://github.com/pleabargain/newnextapp
+
+# coursework 
+https://www.udemy.com/course/cursor-ai-ide/learn/lecture/45625303#notes
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
