@@ -12,6 +12,11 @@ yarn dev
 pnpm dev
 # or
 bun dev
+# or
+# PowerShell
+pwsh -Command "npm run dev"
+# or
+pwsh -Command "yarn dev"
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
